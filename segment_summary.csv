@@ -1,0 +1,7 @@
+segment,customer_count,avg_recency,avg_frequency,avg_monetary,total_revenue,percentage_of_revenue
+Champions,150,12.5,18.2,1875.40,281310.00,45.2
+Loyal Customers,200,28.8,9.5,756.25,151250.00,24.3
+Potential Loyalists,180,42.3,5.8,485.60,87408.00,14.1
+Regular Shoppers,220,35.7,7.2,520.35,114477.00,18.4
+At Risk,140,72.4,2.8,320.75,44905.00,7.2
+Lost Customers,110,88.6,1.9,185.90,20449.00,3.3

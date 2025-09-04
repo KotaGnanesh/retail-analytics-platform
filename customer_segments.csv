@@ -1,0 +1,21 @@
+customer_id,recency,frequency,monetary,rfm_score,segment,cluster,cluster_name
+1001,15,8,1250.50,555,Champions,0,High Value
+1002,25,12,2100.75,554,Champions,0,High Value
+1003,45,4,580.25,332,Potential Loyalists,2,Regular Shoppers
+1004,12,15,1890.60,555,Champions,0,High Value
+1005,65,2,250.40,221,At Risk,4,Price Conscious
+1006,8,20,2500.80,555,Champions,0,High Value
+1007,35,6,750.30,443,Loyal Customers,1,Loyal Advocates
+1008,90,1,180.50,111,Lost Customers,4,Price Conscious
+1009,18,9,1100.45,554,Champions,0,High Value
+1010,28,7,650.75,443,Loyal Customers,1,Loyal Advocates
+1011,55,3,420.60,322,At Risk,3,Occasional
+1012,5,25,3200.90,555,Champions,0,High Value
+1013,75,2,320.80,212,Lost Customers,4,Price Conscious
+1014,22,11,980.35,544,Loyal Customers,1,Loyal Advocates
+1015,40,5,690.25,433,Potential Loyalists,2,Regular Shoppers
+1016,95,1,150.70,111,Lost Customers,4,Price Conscious
+1017,14,14,1450.85,555,Champions,0,High Value
+1018,32,8,820.40,443,Loyal Customers,1,Loyal Advocates
+1019,68,2,380.95,221,At Risk,4,Price Conscious
+1020,9,18,2080.65,555,Champions,0,High Value
